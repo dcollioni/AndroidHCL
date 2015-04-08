@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Login</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+
+    <string name="seja_bem_vindo">Seja bem-vindo!</string>
+    <string name="info_incorretas">Informações incorretas</string>
+    <string name="preencha_info">Preencha as infomações</string>
+    <string name="limpar">Limpar</string>
+    <string name="confirmacao">Confirmação</string>
+    <string name="deseja_limpar_campos">Deseja limpar os campos?</string>
+    <string name="nao">Não</string>
+    <string name="sim">Sim</string>
+</resources>

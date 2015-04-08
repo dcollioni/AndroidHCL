@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cadastro Conta</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pf">PF</string>
+    <string name="pj">PJ</string>
+    <string name="cpf">CPF</string>
+    <string name="cnpj">CNPJ</string>
+    <string name="talao_cheques">Talão de Cheques</string>
+    <string name="cartao_credito">Cartão de Crédito</string>
+    <string name="seguro_cartao">Seguro do Cartão</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="tipo_pessoa">Tipo de Pessoa</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+</resources>

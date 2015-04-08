@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarefas</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="descricao">Descrição</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="remover">Remover</string>
+</resources>
